@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049767190863",
+    "project_id": "havechat-79eaa",
+    "storage_bucket": "havechat-79eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049767190863:android:6a23106fea088181c5653a",
+        "android_client_info": {
+          "package_name": "com.daniel.have_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049767190863-lijv8butgm33qjbjcp088bj8aj43ckur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqcGqIHIRDJv28D4HBRZi9NZl0jQA23c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049767190863-lijv8butgm33qjbjcp088bj8aj43ckur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
